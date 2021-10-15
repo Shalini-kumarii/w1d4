@@ -1,11 +1,8 @@
-
-
 .container{
     display: flex;
 }
 .main{
     height: 500px;
- 
 }
 .justify-left {
     justify-content: left;
@@ -28,7 +25,7 @@
 .nav{
 	color:white;
 	background-color: black;
-	padding-left:5%;
+	padding-left:12%;
 	padding-right: 5%;
 }
 .bold{
@@ -52,6 +49,11 @@
     text-decoration: none;
 	width:150px;
 }
+.logo button{
+	background-color:cornflowerblue;
+	color:white;
+	margin-right:50px;
+}
 .profile{
 	height: 100%;
 	background-color: white;
@@ -71,7 +73,6 @@
 	padding:3%;
 }
 img.programmer {
-  
     margin-left: 20px;
     height: 70px;
     width: 100px;
@@ -81,7 +82,7 @@ img.programmer {
     border: 5px solid #555;
 }
 img.map{
-   margin:0px;
+    margin:0px;
     height: 20px;
     width: 20px;
     margin-left:20px;
