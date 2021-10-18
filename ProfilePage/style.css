@@ -57,20 +57,24 @@
 .profile{
 	height: 100%;
 	background-color: white;
-	padding:2%;
-	
+	padding:2%;	
 }
 .info{
-	border: 5px solid teal;
+	border: 2px solid teal;
+	margin-bottom: 50px;
 }
 .profileinfoholder{
 	padding:3%;
 }
-.info1{
-	border: 5px solid red;
+.fontsize1{
+	font-size: 25px;
 }
-.profileinfoholder1{
-	padding:3%;
+.fontsize2{
+	font-size: 15px;
+}
+.fontsize3{
+	font-size: 20px;
+	font-weight: bold;
 }
 img.programmer {
     margin-left: 20px;
@@ -110,7 +114,6 @@ p.name{
 .header1{
 	background-color:black;
 	height: 70px;
-
 }
 .header1 h1{
 	color:white;
